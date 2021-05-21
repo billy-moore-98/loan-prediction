@@ -12,3 +12,5 @@ The dataset also had a high positive class imbalance. To deal with this class pe
 It was found that the best model for the aim was a logistic regression model with balanced class weights. The logistic regression model with SMOTE didn't perform as well.
 The model has a good balance of true positive and false positive rates, such that an investor can be relatively confident that if they invest in a loan the model predicts to be paid back on time,
 they will not lose money.
+
+If the notebooks do not render please use [Jupyter nbviewer](https://nbviewer.jupyter.org/).
