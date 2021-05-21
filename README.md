@@ -2,7 +2,7 @@
 
 Credit modelling is important in determining risk when investing in potential loans. If a borrower does not pay their loan back on time, the investor will lose money.
 
-In this project I have taken Lending Club loan data from 2007 to 2011. The data contains information on various loans, most of which were paid back on time and some which were defaulted.
+In this project I have taken Lending Club loan data from 2007 to 2011. The data contains information on various loans, most of which were paid back on time and some which were defaulted. The data can be found [here](https://www.kaggle.com/wordsforthewise/lending-club).
 
 The aim is to build a machine learning model that will accurately predict whether a potential borrower will pay their loan back on time. In this context the true positive and false positive rates are important.
 If we invest in a false positive, we will lose money.
